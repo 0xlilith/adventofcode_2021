@@ -3,7 +3,7 @@
 
 int main(void) {
 	std :: ifstream file("input.txt");
-	int large=0, count=0, num=0, sum=0, temp=0;
+	int count=0, num=0, sum=0, temp=0;
 	int arr[2000];
 	while (! file.eof()) {
 		file >> arr[num];

@@ -1,4 +1,3 @@
-# adventofcode_2021
-my advdentofcode 2021 solutions
+## My Advent Of Code 2021 solutions in C++
 
-https://adventofcode.com/
+`AOC Site` : https://adventofcode.com/

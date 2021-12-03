@@ -17,7 +17,6 @@ int main(void) {
 			count++;
 		}
 		temp = sum;
-	//	std :: cout << sum << " ";
     }
 	std :: cout << count-1;
 }
